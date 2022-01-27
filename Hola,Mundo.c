@@ -1,3 +1,7 @@
+/*Cabe resalta que si utilizas un traductor de paginas es necesario que este,
+ *Sea desactivado debido a que los códigos son palabras en ingles y por lo tanto
+ *el código estaría incorrecto si lo copiamos de manera traducida*/ 
+
 /*Todo programador gomienza con este primer ejercicio al
  *momento de aprender un nuevo lenguaje de programacion
  *
