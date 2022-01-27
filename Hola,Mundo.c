@@ -11,7 +11,7 @@
 #include <stdlib.h>
 /////////////////////////////////////////
 
-void main()/*Funcion principal main void sirve
+void main()/*Funcion principal main, void sirve
             *para que esta funcion no retorne ningun valor
             */
 
